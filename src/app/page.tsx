@@ -27,7 +27,7 @@ export default function Home() {
           {/* <tr>
             <td></td>
           </tr> */}
-          <Weapontable/>
+          {/* <Weapontable/> */}
           
         </table>
       </div>
